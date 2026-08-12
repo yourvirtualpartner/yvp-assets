@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Threads</title>
+  <rect width="32" height="32" rx="3" fill="#bea064"/>
+  <path d="M16 6.5c-5.5 0-9 3.8-9 9.7 0 6 3.5 9.3 9.1 9.3 5 0 8.4-2.6 8.4-6.4 0-3-2.1-5.1-5.4-5.5-1.9-.2-4.1.3-5.2 1.6-1.6 1.9-.2 4.8 2.4 4.8 2.9 0 4.1-2.7 3.7-5.9-.5-3.9-2.1-6.1-4.8-6.1" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+</svg>

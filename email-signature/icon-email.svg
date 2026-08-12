@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
-  <title id="title">Email</title>
-  <circle cx="24" cy="24" r="23" fill="#23313f"/>
-  <rect x="12.5" y="16" width="23" height="16" rx="1.5" fill="none" stroke="#bea064" stroke-width="2.4"/>
-  <path d="M14 18l10 7.8L34 18" fill="none" stroke="#bea064" stroke-width="2.4" stroke-linejoin="round"/>
-</svg>
